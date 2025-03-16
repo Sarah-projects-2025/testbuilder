@@ -41,15 +41,6 @@ npm run dev
 Then, open the provided local URL in your browser. If you would like to test locally on LocalHost.
 
 
-### 4. Build the Project (if required)
-
-To generate an optimized production build, run
-
-```js
-npm run build
-```
-
-
 ## Deployed Version
 
 link to the hosted version. 
