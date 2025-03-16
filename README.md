@@ -46,7 +46,7 @@ Then, open the provided local URL in your browser.
 ## Deployed Version
 
 link to the hosted version. 
-[Link Text](https://builder-virid.vercel.app/)   YET TO UPDATE!
+[Vercel link ]( https://testbuilder-tawny.vercel.app/ )   YET TO UPDATE!
 
 
 ## Additional Details
