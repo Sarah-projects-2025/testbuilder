@@ -21,8 +21,8 @@ This project is a simple page builder, similar to Elementor, allowing users to d
 ### 1. Clone the Repository
 
 ```js
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone <repository-url>
+cd <project-folder>
 ```
 
 ### 2. Install Dependencies
