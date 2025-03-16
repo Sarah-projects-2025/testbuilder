@@ -22,7 +22,7 @@ This project is a simple page builder, similar to Elementor, allowing users to d
 
 ```js
 git clone <repository-url>
-cd <project-folder>
+cd testbuilder
 ```
 
 ### 2. Install Dependencies
@@ -41,9 +41,9 @@ npm run dev
 Then, open the provided local URL in your browser. If you would like to test locally on LocalHost.
 
 
-### 4. Run build if Required
+### 4. Build the Project (if required)
 
-Additionally, you can run build.
+To generate an optimized production build, run
 
 ```js
 npm run build
