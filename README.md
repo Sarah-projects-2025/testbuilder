@@ -38,15 +38,22 @@ Since the project uses Vite, run:
 npm run dev
 ```
 
-Then, open the provided local URL in your browser.
+Then, open the provided local URL in your browser. If you would like to test locally on LocalHost.
 
 
+### 4. Run build if Required
+
+Additionally, you can run build.
+
+```js
+npm run build
+```
 
 
 ## Deployed Version
 
 link to the hosted version. 
-[Vercel link ]( https://testbuilder-tawny.vercel.app/ )   YET TO UPDATE!
+[Vercel link ]( https://testbuilder-tawny.vercel.app/ )
 
 
 ## Additional Details
