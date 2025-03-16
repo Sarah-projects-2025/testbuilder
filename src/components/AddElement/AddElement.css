@@ -1,0 +1,24 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltip .tooltip-text {
+    visibility: hidden;
+    background-color: rgb(255, 255, 255);
+    color: #07223d;
+    padding: 4px;
+    border-radius: 12px;
+    position: absolute;
+    transform: translate(-66%, 121%);
+    width: 170px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    box-shadow: 1px 0px 13px 2px var(--text-color);
+}
+
+.tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 0.8;
+}

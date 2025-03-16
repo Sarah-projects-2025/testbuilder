@@ -1,0 +1,31 @@
+.main-content {
+    flex-grow: 1;
+    align-content: flex-start;    
+    background: #ecf0f1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    overflow: auto;
+    padding: 16px;
+}
+
+.dragtext {
+    background-color: rgb(29, 61, 221);
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    padding: 8px;
+    border-radius: 4px;
+}
+.dragging {
+    background-color: aliceblue;
+}
+
+h1 {
+   font-family: Roboto;
+   font-weight: 200;
+   font-size: 30px;
+   color: #727474
+}
